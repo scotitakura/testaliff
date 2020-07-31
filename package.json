@@ -1,0 +1,17 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.1"
+  },
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
+}
